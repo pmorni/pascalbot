@@ -3,7 +3,8 @@
     "HELLO": "Hi, I'm Pascal's bot! How can I helo you?",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
+    "Love you":"Thanks!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "Roger that, Pascal's bot is back."
     
 }
