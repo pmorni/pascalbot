@@ -1,5 +1,6 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Pascal.\n![pascal](https://fr.gravatar.com/userimage/75319282/c3b2deb8b0794a5ae0232f0c40cf950d.jpg?size=200)\nWant to know more about bots or learn about Pascal? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Pascal](postback:LEARN) %[One random fact!](postback:random_fact)",
+    "BOT": "Hi there!\nI’m the personal bot of Pascal.\n![pascal](https://fr.gravatar.com/userimage/75319282/c3b2deb8b0794a5ae0232f0c40cf950d.jpg?size=200)\nWant to know more about bots or learn about Pascal? %[I'm here for the bot](reply:here_for_the_bot) %[Learn about Pascal](reply:LEARN) %[One random fact!](reply:random_fact)",
+    "BOT2": "What do you want?\n![pascal](https://fr.gravatar.com/userimage/75319282/c3b2deb8b0794a5ae0232f0c40cf950d.jpg?size=200)\nWant to know more about bots or learn about Pascal? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Pascal](postback:LEARN) %[One random fact!](postback:random_fact)",
     "HELLO": "Hi, I'm Pascal's bot! How can I help you?",
     "TELL HIM": "Let's tweet @ Pascal so he knows you're here. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
